@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">wordBook</string>
+    <string name="title_home">查找单词</string>
+    <string name="title_dashboard">单词本</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
